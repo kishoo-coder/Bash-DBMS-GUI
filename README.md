@@ -1,6 +1,6 @@
 # Bash-DBMS-GUI
 ## A simulating Database Management System using Bash and Graphical User Interface
-You can Run this project by running first.sh file
+You can Run this project by running first.sh file as a source file
 
 ## Features For Database
 - Create Database
