@@ -44,13 +44,13 @@ while true; do
             zenity --info --title="List of Databases" --text="Databases:\n$databases"
             ;;
         "Connect To Database")
-            ~/Desktop/bash_project/bash_project/Databases/ConnectToDatabase.sh
+            ./ConnectToDatabase.sh
             ;;
         "Rename Database")
-            ~/Desktop/bash_project/bash_project/Databases/RenameDatabase.sh
+            ./RenameDatabase.sh
             ;;
         "Drop Database")
-            ~/Desktop/bash_project/bash_project/Databases/DropDatabase.sh
+            ./DropDatabase.sh
             ;;
         "Quit")
             exit 0
